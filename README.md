@@ -6,7 +6,7 @@ A modern and interactive recipe search application built using HTML, CSS, and Ja
 
 ## 🔗 Live Demo
 
-**👉 [View Live Demo](https://your-deployment-link.com)**  
+**👉 [View Live Demo](https://recipe-finder-application-theta.vercel.app/)**  
 
 
 ---
