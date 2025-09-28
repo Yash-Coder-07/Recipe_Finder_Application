@@ -4,7 +4,7 @@ A simple and elegant web application for discovering new recipes. Users can sear
 
 ##  Live Demo
 
-[View the live project here](recipe-finder-application-teab.vercel.app) ***
+[View the live project here](https://recipe-finder-application-teab.vercel.app/) ***
 
 
 ## ✨ Features
