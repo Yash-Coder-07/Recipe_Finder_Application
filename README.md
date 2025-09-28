@@ -2,16 +2,10 @@
 
 A simple and elegant web application for discovering new recipes. Users can search for recipes by name, filter by category or cuisine, or get a random recipe suggestion. Detailed instructions and ingredients are displayed in a clean, user-friendly modal.
 
-## 🚀 Live Demo
+##  Live Demo
 
-[View the live project here](https://your-deployment-link.com) ***
+[View the live project here](recipe-finder-application-teab.vercel.app) ***
 
-## 📸 Screenshot
-
-
-*A preview of the Recipe Finder application in action.*
-
-***
 
 ## ✨ Features
 
